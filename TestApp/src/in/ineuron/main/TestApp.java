@@ -21,7 +21,10 @@ public class TestApp {
 				}
 				if(flag) System.out.println("It's pangram"); else System.out.println("It's Not Pangram");
 
-		
+				 System.out.println("Suresh");
+				 System.out.println("Suresh");
+				 System.out.println("Suresh");
+				 
 	}
 
 }
